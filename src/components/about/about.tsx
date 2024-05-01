@@ -82,7 +82,7 @@ export const About = () => {
                 Gosto de ler livros voltados para o desenvolvimento intelectual e pessoal , e acabo preferindo ambientes tranquilos sem muitos barulhos ou pessoas , enfim acho que passar um tempo só é bem importante para buscar a evolução , analisar os problemas internos e buscar ser uma pessoa melhor a cada dia é assim que eu vivo para ter uma vida sem arrependimentos , e isso tudo me ajuda produzir mais a cada dia.
             </p>
 
-            <a href="#" className="bth">Read More</a>
+            
             </div>
 
         </ContainerAbout>

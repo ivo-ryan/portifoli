@@ -9,11 +9,11 @@ export const Header = () => {
     const viewDisplay = {
         view: 'block',
         hidde: 'none'
-    }
+    };
 
     const [ menu, setMenu ] = useState(true);
     const [ bx, setBx ] = useState(false);
-    const [ display, setDisplay ] = useState(viewDisplay.hidde)
+    const [ display, setDisplay ] = useState(viewDisplay.hidde);
    
     const handleClickMenu = () => {
         if (menu === true) {

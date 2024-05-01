@@ -25,6 +25,11 @@ export const ServicesSt = styled.section`
             flex-wrap: wrap;
             gap: 2rem;
             width: 100vw;
+            height: 50vh;
+
+            @media (max-width: 425px) {
+                height: 100%;
+            }
         }
 `;
 
@@ -38,6 +43,7 @@ export const ServicesBox = styled.div`
             max-width: 300px;
             max-height: 300px;
             transition: .5s ease;
+            
 
             &:hover{
                 border-color: var(--main-color);
