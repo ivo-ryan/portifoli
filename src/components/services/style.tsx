@@ -25,11 +25,9 @@ export const ServicesSt = styled.section`
             flex-wrap: wrap;
             gap: 2rem;
             width: 100vw;
-            height: 50vh;
+            min-height: 50vh;
 
-            @media (max-width: 425px) {
-                height: 100%;
-            }
+
         }
 `;
 
