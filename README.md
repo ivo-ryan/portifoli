@@ -5,7 +5,7 @@ Este portifólio foi criado para conter uma breve apresentação sobre quem sou 
 Esse tipo de projeto é bem tranquilo para desenvolver e não apresentou dificudades .
 
 [
-   <img src=""/>
+   <img src="./portifolio.gif" alt="Portifólio gif"/>
 ](https://portifoli-plum.vercel.app/#home)
 
 ## Tecnologias Utilizadas
